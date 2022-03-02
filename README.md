@@ -1,5 +1,5 @@
-# Seurat-to-Scanpy-Conversion 
-## Spatial-Transcriptomics-data
+# R to Python Conversion for transcriptomic data 
+### Spatial-Transcriptomics-data
 
 Here I present two script for sending Single cell and more precisely Spatial Transciptomics data from R (Seurat) to Python (Scanpy) without losing the Spatial information.
 
